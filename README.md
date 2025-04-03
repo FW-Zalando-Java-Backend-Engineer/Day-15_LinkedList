@@ -105,9 +105,9 @@ Welcome to **Day-15** of our DevOps learning journey! Today we’re diving into 
 - [Oh My Zsh Framework](https://ohmyz.sh/)
 - [Git Documentation](https://git-scm.com/doc)
 - [GitHub Docs](https://docs.github.com/)
-- [Lesson Slides: Operating Systems](#)
-- [Lesson Slides: Git](#)
-- [Lesson Slides: GitHub](#)
+- [Lesson Slides: Operating Systems](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-15_DevOps_Basics/blob/main/DevOps%20basics_%20introduction%20to%20operating%20systems.pdf)
+- [Lesson Slides: Git](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-15_DevOps_Basics/blob/main/DevOps%20basics_%20Introduction%20to%20Git.pdf)
+- [Lesson Slides: GitHub](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-15_DevOps_Basics/blob/main/DevOps%20basics_%20Introduction%20to%20GitHub.pdf)
 - [Video Lesson Recording](_will be added later_)
 
 ---
